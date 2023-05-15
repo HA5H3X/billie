@@ -1,5 +1,6 @@
-HA5H3X, CTF Player\
+W4W1R3\
+CTF Player\
 Email: wbilgah@gmail.com\
 
-Twitter:@HA5H3X\
-Telegram: @ilyie54\
+Twitter:@W4W1R3\
+Telegram: @W4W1R3\
