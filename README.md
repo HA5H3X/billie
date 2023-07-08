@@ -1,7 +1,9 @@
 W4W1R3
 
-CTF Player\
-Email: wbilgah@gmail.com\
+CTF Player
 
-Twitter:@W4W1R3\
-Telegram: @W4W1R3\
+Email: wbilgah@gmail.com
+
+Twitter:@W4W1R3
+
+Telegram: @W4W1R3
