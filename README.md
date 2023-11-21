@@ -16,4 +16,3 @@ Telegram: @W4W1R3
 
 
 
-![Snake animation](https://github.com/W4W1R3/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
