@@ -27,7 +27,8 @@ beBee: https://ke.bebee.com/bee/wawire-bilgah
   
 <img src="https://github-readme-stats.vercel.app/api?username=W4W1R3&show_icons=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4W1R3&layout=compact" width="49%">
 
-h3 align="left">Connect with me:</h3>
+<h3> align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/W4W1R3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alxnerd" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/w4w1r3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brivia odunga" height="30" width="40" /></a>
