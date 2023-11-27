@@ -7,6 +7,8 @@
 
 CTF Player
 
+<img src="resources/happycoding" align="right" width="40%" height="100%" position="absolute">
+
 Email: wbilgah@gmail.com
 
 Twitter:@W4W1R3
