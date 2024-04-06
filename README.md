@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=W4W1R3" alt="W4W1R3" /> </p>
 
-CTF Player | Mobile App Developer | CyberSec Enthusiast | Mobile Pentester
+CTF Player | Mobile App Developer | CyberSecurity Expert | Mobile Pentester
 
 Email: wbilgah@gmail.com
 
