@@ -10,6 +10,8 @@ CTF Player | Mobile App Developer | CyberSecurity Expert | Mobile Pentester
 
 Email: wbilgah@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/wawire-bilgah-7b8216211/
+
 Twitter:@W4W1R3
 
 Telegram: @W4W1R3
